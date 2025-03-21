@@ -15,6 +15,6 @@ This is a simple multi-page portfolio built using HTML only. It includes:
 
 ## Project Page
 
-You can view the live project at: GitHub Pages Link
+You can view the live project at: https://rizkilabs.github.io/html-portfolio/
 
 © 2025 All Rights Reserved.
